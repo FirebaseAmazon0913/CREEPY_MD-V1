@@ -1,14 +1,14 @@
 //Created by Danny 
 //Dont clone cause if i catch you i will flag you immediately 
-//contact me wa.me/255697608274
+//contact me wa.me/2349135270850
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
+global.ownernomer = "2349135270850"
 global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernumber = '2349135270850'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -17,7 +17,7 @@ global.prefa = [',','!','.','#','&']
 //above is a prefix for activating bot
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
@@ -26,10 +26,10 @@ global.anti91 = false //auto block +91
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
-global.reactEmoji = '😂'; // Default reaction emoji
+global.reactEmoji = '😑'; // Default reaction emoji
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
-//https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
+//https://whatsapp.com/channel/0029VaxQ4Qm3AzNYV9xQt136
 //𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
 
 
